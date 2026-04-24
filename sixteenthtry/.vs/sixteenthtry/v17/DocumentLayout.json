@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\source\\repos\\sixteenthtry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4325A3E5-7DB8-4C09-B4FF-09D6E1041252}|sixteenthtry\\sixteenthtry.csproj|c:\\users\\asus\\source\\repos\\sixteenthtry\\sixteenthtry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4325A3E5-7DB8-4C09-B4FF-09D6E1041252}|sixteenthtry\\sixteenthtry.csproj|solutionrelative:sixteenthtry\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4325A3E5-7DB8-4C09-B4FF-09D6E1041252}|sixteenthtry\\sixteenthtry.csproj|c:\\users\\asus\\source\\repos\\sixteenthtry\\sixteenthtry\\tmdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4325A3E5-7DB8-4C09-B4FF-09D6E1041252}|sixteenthtry\\sixteenthtry.csproj|solutionrelative:sixteenthtry\\tmdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TMDB.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\sixteenthtry\\sixteenthtry\\TMDB.cs",
+              "RelativeDocumentMoniker": "sixteenthtry\\TMDB.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\sixteenthtry\\sixteenthtry\\TMDB.cs",
+              "RelativeToolTip": "sixteenthtry\\TMDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T13:20:30.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\source\\repos\\sixteenthtry\\sixteenthtry\\Program.cs",
+              "RelativeDocumentMoniker": "sixteenthtry\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\source\\repos\\sixteenthtry\\sixteenthtry\\Program.cs",
+              "RelativeToolTip": "sixteenthtry\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T17:31:24.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

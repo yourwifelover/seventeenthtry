@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\variant1\variant1\bin\Debug\net8.0\variant1.exe
+C:\Users\Asus\source\repos\variant1\variant1\bin\Debug\net8.0\variant1.deps.json
+C:\Users\Asus\source\repos\variant1\variant1\bin\Debug\net8.0\variant1.runtimeconfig.json
+C:\Users\Asus\source\repos\variant1\variant1\bin\Debug\net8.0\variant1.dll
+C:\Users\Asus\source\repos\variant1\variant1\bin\Debug\net8.0\variant1.pdb
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.AssemblyInfo.cs
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.dll
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\refint\variant1.dll
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.pdb
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\variant1.genruntimeconfig.cache
+C:\Users\Asus\source\repos\variant1\variant1\obj\Debug\net8.0\ref\variant1.dll

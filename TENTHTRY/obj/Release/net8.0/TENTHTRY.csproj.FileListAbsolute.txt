@@ -1,0 +1,14 @@
+C:\Users\Asus\source\repos\TENTHTRY\bin\Release\net8.0\TENTHTRY.exe
+C:\Users\Asus\source\repos\TENTHTRY\bin\Release\net8.0\TENTHTRY.deps.json
+C:\Users\Asus\source\repos\TENTHTRY\bin\Release\net8.0\TENTHTRY.runtimeconfig.json
+C:\Users\Asus\source\repos\TENTHTRY\bin\Release\net8.0\TENTHTRY.dll
+C:\Users\Asus\source\repos\TENTHTRY\bin\Release\net8.0\TENTHTRY.pdb
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.AssemblyInfo.cs
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.dll
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\refint\TENTHTRY.dll
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.pdb
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\TENTHTRY.genruntimeconfig.cache
+C:\Users\Asus\source\repos\TENTHTRY\obj\Release\net8.0\ref\TENTHTRY.dll

@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.AssemblyInfo.cs
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.sourcelink.json
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\bin\Debug\net8.0\twelfthtry.exe
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\bin\Debug\net8.0\twelfthtry.deps.json
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\bin\Debug\net8.0\twelfthtry.runtimeconfig.json
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\bin\Debug\net8.0\twelfthtry.dll
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\bin\Debug\net8.0\twelfthtry.pdb
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.dll
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\refint\twelfthtry.dll
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.pdb
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\twelfthtry.genruntimeconfig.cache
+C:\Users\Asus\source\repos\twelfthtry\twelfthtry\obj\Debug\net8.0\ref\twelfthtry.dll
