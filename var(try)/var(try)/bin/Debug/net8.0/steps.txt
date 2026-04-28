@@ -1,9 +1,0 @@
-MONDAY: 13
-TUESDAY: 2
-WEDNESDAY: 23
-THURSDAY: 32
-FRIDAY: 12
-SATURDAY: 23
-SUNDAY: 12
-Середня кiлькiсть крокiв за тиждень: 16,714285714285715
-Найбiльша кiлькiсть крокiв за тиждень: 32
