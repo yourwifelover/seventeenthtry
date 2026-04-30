@@ -1,6 +1,0 @@
-@neCURSACH_HostAddress = http://localhost:5023
-
-GET {{neCURSACH_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
