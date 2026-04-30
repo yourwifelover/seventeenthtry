@@ -34,7 +34,7 @@ namespace Model
     }
     public class Details
     {
-        public Details(int id, string title, int runtime, int budget, string overview)
+        public Details(int id, string title, int runtime, int budget, string overview) 
         {
             this.id = id;
             this.title = title;

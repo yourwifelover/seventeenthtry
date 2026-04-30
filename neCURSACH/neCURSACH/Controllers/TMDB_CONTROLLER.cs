@@ -53,7 +53,7 @@ namespace neCURSACH.Controllers
         {
             try
             {
-                var result = await service.FindMovie(query);
+                var result = await service.FindMovie(query);                
                 return StatusCode(200, result);
             }
             catch (Exception ex)
@@ -65,7 +65,7 @@ namespace neCURSACH.Controllers
         [HttpPost("Favorite")]
         public async Task<ActionResult> Favorite(int movieid)
         {
-
+            
             try
             {
                 var result = await service.GetDetails(movieid);
@@ -96,7 +96,7 @@ namespace neCURSACH.Controllers
         public ActionResult UpdateMovie(int id, Details updatedMovie)
         {
             try
-            {
+            {                
                 storage.Update(id, updatedMovie);
                 return StatusCode(204, "Movie updated successfully");
             }
