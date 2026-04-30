@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+
+
+/CURSACH/CURSACH/API.cs
+/sixteenthtry/sixteenthtry/APIKEY.cs
+.vs/
+bin/
+obj/
+/neCURSACH/neCURSACH/APIKEY.cs
+/seventeenthtry/seventeenthtry/API.cs
